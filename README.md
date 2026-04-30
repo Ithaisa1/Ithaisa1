@@ -79,9 +79,11 @@ Creo interfaces que no solo se ven bien, sino que funcionan bien.
 ---
 
 ## 🎮 Contribuciones
-
-![pacman](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-![pacman](https://raw.githubusercontent.com/Ithaisa1/Ithaisa1/output/pacman.svg)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
