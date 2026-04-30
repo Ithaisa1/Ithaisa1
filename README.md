@@ -89,7 +89,7 @@ Creo interfaces que no solo se ven bien, sino que funcionan bien.
 
 ## 📫 Contacto
 
-📩 Email: ithaisasanchezgonzalez@email.com  
+📩 Email: ithaisasanchezgonzalez@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/ithaisa-sg
 🌍 Portfolio: https://isgdigital.es/ 
 
