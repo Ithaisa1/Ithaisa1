@@ -71,8 +71,8 @@ Me gusta entender cómo funcionan los sistemas para mejorarlos y darles una expe
 ## 📫 Contacto
 
 📩 Email: ithaisasanchezgonzalez@gmail.com  
-💼 LinkedIn: [https://www.linkedin.com/in/ithaisa-sg/]
-🌍 Portfolio/Web: [https://isgdigital.es/]
+💼 LinkedIn: https://www.linkedin.com/in/ithaisa-sg/
+🌍 Portfolio/Web: https://isgdigital.es/
 
 ---
 
