@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate snake (Pac-Man style)
         uses: Platane/snk@v3
         with:
           github_user_name: Ithaisa1
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/pacman.svg?palette=github-dark
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
