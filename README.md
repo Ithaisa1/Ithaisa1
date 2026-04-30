@@ -1,81 +1,50 @@
-# 👋 Hola, soy Ithaisa SG
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:764ba2&height=200&section=header&text=Ithaisa%20SG&fontSize=40&fontColor=ffffff)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UX+%7C+React+%7C+Node+%7C+SEO;Clean+and+functional+design&center=true&width=600&height=50)
+
+## 👋 Sobre mí
 
 💻 Desarrolladora web & creadora digital  
-⚙️ Full Stack en formación (Frontend + Backend)  
+⚙️ Full Stack en formación  
 🎨 UX, SEO y diseño funcional  
-🚀 Creo interfaces que combinan estética + lógica + utilidad real
 
----
-
-## 🧠 Sobre mí
-
-Soy una persona curiosa, autodidacta y orientada a construir cosas con sentido.  
-Me gusta entender cómo funcionan los sistemas para mejorarlos y darles una experiencia más clara y usable.
-
----
+Creo interfaces que no solo se ven bien, sino que funcionan bien.
 
 ## 🧰 Tech Stack
 
-### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
----
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### Backend
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
----
-
-### 🎨 CMS & Diseño
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📌 Organización & Productividad
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Toggl](https://img.shields.io/badge/Toggl-EB5A46?style=for-the-badge&logo=toggl&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=for-the-badge)
-
----
-
-### 🔧 Otros
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![SEO](https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-FF6F61?style=for-the-badge)
-
----
+### UX / Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
 
 ## 🚀 Proyectos
 
-- 🌐 **Gamescape** → React + API RAWG para exploración de videojuegos  
-- 🛠️ **Backend API Node.js + PostgreSQL** → arquitectura y gestión de datos  
-- 🎨 **WordPress UX Projects** → diseño y maquetación con enfoque UX  
-- 📊 **SEO & contenido web** → optimización de estructura y visibilidad  
-
----
+🌐 Gamescape → React + API RAWG  
+🛠️ Backend Node + PostgreSQL → APIs REST  
+🎨 WordPress UX Projects → diseño y maquetación  
+📊 SEO & contenido web → optimización real de sitios
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ithaisa1&show_icons=true&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
----
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark)
+
+![pacman](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contacto
 
-📩 Email: ithaisasanchezgonzalez@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/ithaisa-sg/
-🌍 Portfolio/Web: https://isgdigital.es/
-
----
-
-## ⚡ Filosofía
-
-> “El buen diseño no se nota… simplemente funciona.”
+📩 Email: tuemail@email.com  
+💼 LinkedIn: tu perfil  
+🌍 Portfolio: en construcción 👀
