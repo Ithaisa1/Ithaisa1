@@ -37,9 +37,9 @@ Creo interfaces que no solo se ven bien, sino que funcionan bien.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ithaisa1&layout=compact)
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=Ithaisa1&theme=react-dark)
 
 ![pacman](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
