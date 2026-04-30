@@ -79,8 +79,9 @@ Creo interfaces que no solo se ven bien, sino que funcionan bien.
 ---
 
 ## 🎮 Contribuciones
-![pacman](https://raw.githubusercontent.com/Ithaisa1/Ithaisa1/output/pacman.svg)
+
 ![pacman](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![pacman](https://raw.githubusercontent.com/Ithaisa1/Ithaisa1/output/pacman.svg)
 
 ---
 
