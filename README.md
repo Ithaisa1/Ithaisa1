@@ -2,7 +2,7 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:764ba2&height=200&section=header&text=Ithaisa%20SG&fontSize=40&fontColor=ffffff)
 
 <!-- ⌨️ TYPING -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UX+%7C+React+%7C+Node+%7C+SEO;Diseñolimpioyfuncional&center=true&width=900&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UX+%7C+React+%7C+Node+%7C+SEO;Diseño+limpio+y+funcional&center=true&width=900&height=50)
 
 ---
 
