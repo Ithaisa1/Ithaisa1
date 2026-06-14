@@ -57,10 +57,11 @@ Creo interfaces que no solo se ven bien, sino que funcionan bien.
 
 ## 🚀 Proyectos
 
-- 🌐 Gamescape → React + API RAWG  
-- 🛠️ Backend Node + PostgreSQL → APIs REST  
-- 🎨 WordPress UX Projects → diseño y maquetación  
-- 📊 SEO & contenido web → optimización  
+- 🌐 AdastraSky
+- 🌐 Digital ToolBox Manager
+- 🌐 GameScape → React + API RAWG 
+- 🌐  Oraculo Aethelgard
+- 🌐 Circle Studio Project
 
 ---
 
