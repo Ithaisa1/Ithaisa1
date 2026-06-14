@@ -19,6 +19,7 @@ Creo interfaces web funcionales, claras y centradas en el usuario.
 ## 🧰 Tech Stack
 
 ### 🚀 Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
@@ -28,6 +29,7 @@ Creo interfaces web funcionales, claras y centradas en el usuario.
 ---
 
 ### ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
@@ -35,12 +37,14 @@ Creo interfaces web funcionales, claras y centradas en el usuario.
 ---
 
 ### 🎨 CMS & Diseño
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
 ### 📌 Organización & Productividad
+
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
 ![Toggl](https://img.shields.io/badge/Toggl-EB5A46?style=for-the-badge&logo=toggl)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=for-the-badge)
