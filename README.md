@@ -8,11 +8,11 @@
 
 ## 👋 Sobre mí
 
-💻 Desarrolladora web & creadora digital  
-⚙️ Full Stack en formación  
-🎨 UX, SEO y diseño funcional  
+💻 Desarrolladora web junior especializada en frontend
+🎨 UX/UI, WordPress y SEO como base de trabajo
+⚙️ Conocimientos en desarrollo backend y bases de datos
 
-Creo interfaces que no solo se ven bien, sino que funcionan bien.
+Creo interfaces web funcionales, claras y centradas en el usuario.
 
 ---
 
