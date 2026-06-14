@@ -48,6 +48,7 @@ Creo interfaces web funcionales, claras y centradas en el usuario.
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
 ![Toggl](https://img.shields.io/badge/Toggl-EB5A46?style=for-the-badge&logo=toggl)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-000000?style=for-the-badge)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
 
