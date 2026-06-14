@@ -8,9 +8,7 @@
 
 ## 👋 Sobre mí
 
-💻 Desarrolladora web junior especializada en frontend
-🎨 UX/UI, WordPress y SEO como base de trabajo
-⚙️ Conocimientos en desarrollo backend y bases de datos
+💻 Desarrolladora web junior especializada en frontend                                                                                                                                            🎨 UX/UI, WordPress y SEO como base de trabajo                                                                                                                                                    ⚙️ Conocimientos en desarrollo backend y bases de datos
 
 Creo interfaces web funcionales, claras y centradas en el usuario.
 
