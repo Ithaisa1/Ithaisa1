@@ -57,11 +57,25 @@ Creo interfaces web funcionales, claras y centradas en el usuario.
 
 ## 🚀 Proyectos
 
-- 🌐 AdastraSky
-- 🌐 Digital ToolBox Manager
-- 🌐 GameScape → React + API RAWG 
-- 🌐  Oraculo Aethelgard
-- 🌐 Circle Studio Project
+🌐 Adastra Sky
+
+Proyecto de astroturismo centrado en la exploración del cielo nocturno, constelaciones y experiencias astronómicas. Diseñado para ofrecer información visual e interactiva sobre astronomía aplicada al turismo.
+
+🎮 GameScape
+
+Catálogo de videojuegos inspirado en plataformas tipo Netflix. Permite explorar juegos mediante datos de una API, con enfoque en navegación visual, búsqueda y experiencia de usuario.
+
+🛠️ Digital Toolbox Manager
+
+Gestor de herramientas digitales diseñado para organizar recursos, aplicaciones y utilidades en un solo entorno centralizado. Enfocado en productividad y accesibilidad.
+
+🎨 Circle Studio
+
+Proyecto experimental de diseño y desarrollo web, orientado a pruebas de concepto, exploración creativa y prototipado de ideas digitales.
+
+🧠 Oráculo Aethelgard
+
+Sistema basado en RAG (Retrieval-Augmented Generation), orientado a la recuperación y generación de respuestas a partir de información estructurada. Proyecto experimental de IA aplicada.
 
 ---
 
