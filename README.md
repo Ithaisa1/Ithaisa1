@@ -104,9 +104,9 @@ Sistema basado en RAG (Retrieval-Augmented Generation), orientado a la recuperac
 
 ## 📫 Contacto
 
-📩 Email: ithaisasanchezgonzalez@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/ithaisa-sg
-🌍 Portfolio: https://isgdigital.es/ 
+- 📩 Email: ithaisasanchezgonzalez@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ithaisa-sg
+- 🌍 Portfolio: https://isgdigital.es/ 
 
 ---
 
