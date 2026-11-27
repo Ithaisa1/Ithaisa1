@@ -25,7 +25,9 @@ Todos tienen demo. Más detalles, capturas y decisiones técnicas en [mi portfol
 
 ## 💼 Ahora
 
-Desarrolladora web en **Qraneos** (contrato de formación en alternancia): katas en JavaScript, web scraping con TypeScript y documentación técnica, en equipo con Git, GitLab y Jira.
+Programadora en **[Equipo Verne](https://equipoverne.com)**, agencia audiovisual de Las Palmas de Gran Canaria: desarrollo de webs y landings para clientes con WordPress y Elementor.
+
+**Antes:** desarrolladora web en **Qraneos** (contrato de formación en alternancia): katas en JavaScript, web scraping con TypeScript y documentación técnica, en equipo con Git, GitLab y Jira.
 
 **Formación:** Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y bootcamp Full Stack + IA de Ironhack con la FULP.
 
