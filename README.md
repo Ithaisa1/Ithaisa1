@@ -3,7 +3,7 @@
 **Desarrolladora Frontend junior** en Gran Canaria. Construyo interfaces web accesibles y fáciles de usar con HTML, CSS, JavaScript, TypeScript, Astro y React.
 
 🌐 **Portfolio:** [ithaisasg.twincore.es](https://ithaisasg.twincore.es) · [English version](https://ithaisasg.twincore.es/en/)
-📅 **Disponible desde el 7 de enero de 2027**
+
 
 *Junior frontend developer based in Gran Canaria, Spain. I build accessible, easy-to-use web interfaces.*
 
